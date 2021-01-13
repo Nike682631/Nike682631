@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Nikunj](https://www.linkedin.com/in/nikunj-g-ab6711129/)
+# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Nikunj](https://www.linkedin.com/in/nikunj-g-ab6711129/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nike682631)
 
