@@ -1,6 +1,7 @@
 # Hi there 👋 I'm [Nikunj](https://www.linkedin.com/in/nikunj-g-ab6711129/)
 
- [![Twitter Badge](https://img.shields.io/badge/-@Blood sucker-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/f897ecbf95c348a)](https://twitter.com/f897ecbf95c348a) [![Linkedin Badge](https://img.shields.io/badge/-Nikunj goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikunj-g-ab6711129/)](https://www.linkedin.com/in/nikunj-g-ab6711129/)
+ [![Twitter Badge](https://img.shields.io/badge/-@Blood sucker-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/f897ecbf95c348a)](https://twitter.com/f897ecbf95c348a) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Nikunj goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikunj-g-ab6711129/)](https://www.linkedin.com/in/nikunj-g-ab6711129/)
 [![Gmail Badge](https://img.shields.io/badge/-nikunjgoyal31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikunjgoyal31@gmail.com)](mailto:nikunjgoyal31@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=Nike682631)
 <!--
