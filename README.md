@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nike682631)
 
-[![Nikunj's github stats]]([https://github-readme-stats.vercel.app/api?username=Nike682631](https://github-readme-stats.vercel.app/api?username={Nike682631}&theme=blue-green))
+[![Nikunj's github stats]([https://github-readme-stats.vercel.app/api?username=Nike682631]](https://github-readme-stats.vercel.app/api?username={Nike682631}&theme=blue-green))
 
 
 ## :book: About me
