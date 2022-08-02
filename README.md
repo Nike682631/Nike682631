@@ -7,7 +7,6 @@
 
 ## :book: About me
 - 🖥 Software Developer
-- 🎓 Electronics and instrumentation from  J.C. Bose University of Science and technology, class of 2023
 - I like to travel and play sports particularly football and basketball.
 - I use Arch 
 
