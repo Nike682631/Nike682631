@@ -9,7 +9,7 @@
 - 🖥 Software Developer
 - 🎓 Electronics and instrumentation from  J.C. Bose University of Science and technology, class of 2023
 - I like to travel and play sports particularly football and basketball.
-- I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- I use Arch 
 
 <h3>My tools</h3>
 <p>
