@@ -4,7 +4,7 @@
 
 ![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nike682631&show_icons=true&theme=dark)
 
-![]https://github-readme-stats.vercel.app/api/top-langs/?username=Nike682631&theme=blue-green
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nike682631&theme=blue-green)
 
 ## :book: About me
 - 🖥 Software Developer
