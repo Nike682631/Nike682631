@@ -4,8 +4,6 @@
 
 ![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nike682631&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nike682631)](https://github.com/anuraghazra/github-readme-stats)
-
 ## :book: About me
 - 🖥 Software Developer
 - I like to travel and play sports particularly football and basketball.
@@ -44,6 +42,9 @@
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nike682631)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Where to find me</h3>
