@@ -1,6 +1,6 @@
 # Hi there!! I'm [Nikunj](https://www.linkedin.com/in/nikunj-g-ab6711129/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Nike682631)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.come%2FNike682631&countColor=%23263759)
 
 ![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nike682631&show_icons=true&theme=dark)
 
