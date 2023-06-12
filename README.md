@@ -1,6 +1,6 @@
 # Hi there!! I'm [Nikunj](https://www.linkedin.com/in/nikunj-g-ab6711129/)
 
-![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nike682631&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nike682631&show_icons=true&theme=transparent)
 
 ## :book: About me
 - 🖥 Software Developer
@@ -41,9 +41,7 @@
   <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nike682631)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nike682631&langs_count=6&theme=transparent)]()
 
 <h3>Where to find me</h3>
 <a href="https://github.com/Nike682631" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/f897ecbf95c348a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikunj-g-ab6711129/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
